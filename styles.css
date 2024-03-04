@@ -1,0 +1,44 @@
+body{
+  background-color: white;
+}
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FCAEAE;
+}
+
+.navbar li {
+  float: left;
+}
+
+.navbar li a {
+  display: block;
+  color:#FF6666 ;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+
+
+hr{
+  border-style:dotted none none;
+  width:30%;
+  background-color: #FCAEAE;
+  border-width: 5px;
+}
+img{
+  height: 200px;
+}
+h1{
+  color:   #FF6666
+}
+h3{
+  color: #FF6666
+}
+href{
+  color:#FF6666
+}
